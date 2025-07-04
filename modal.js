@@ -1,2 +1,2 @@
 console.log('hello from modal');
-console.log('Version 6 restored');
+console.log('Version 7');
